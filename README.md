@@ -1,5 +1,5 @@
 
-# Papollo Hospitals Dashboard - Power BI
+# Papollo Hospitals Dashboard (Technology used: Power Bi)
 ## Project Overview
 This project features an advanced Hospital Management Dashboard created using Power BI to provide insights into the overall performance of hospital operations, patient satisfaction, and service quality. The dashboard aims to help hospital administrators and stakeholders monitor key metrics and make data-driven decisions to enhance healthcare delivery.
 
